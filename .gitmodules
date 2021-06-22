@@ -1,0 +1,3 @@
+[submodule "read-process-memory"]
+	path = read-process-memory
+	url = git@github.com:pyroscope-io/read-process-memory.git
